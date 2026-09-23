@@ -111,7 +111,7 @@ export const Contact: React.FC<ContactProps> = ({ playHover, playClick }) => {
             <a
               href={PERSONAL_DATA.socials.github.url}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               onClick={playClick}
               onMouseEnter={playHover}
               data-cursor="link"
@@ -138,7 +138,7 @@ export const Contact: React.FC<ContactProps> = ({ playHover, playClick }) => {
             <a
               href={PERSONAL_DATA.socials.linkedin.url}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
               onClick={playClick}
               onMouseEnter={playHover}
               data-cursor="link"

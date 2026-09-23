@@ -1,0 +1,19 @@
+{
+  "name": "Yuvraj Bedi — Digital Lab",
+  "short_name": "Yuvraj Bedi",
+  "description": "Personal digital laboratory and portfolio of Yuvraj Bedi, Computer Science undergraduate at Bennett University.",
+  "start_url": "/portfolio/",
+  "scope": "/portfolio/",
+  "display": "standalone",
+  "background_color": "#0B0C0E",
+  "theme_color": "#0B0C0E",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "./favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

@@ -143,7 +143,7 @@ export const TheLab: React.FC<TheLabProps> = ({ playHover, playClick }) => {
                       <a
                         href={project.githubUrl}
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noopener noreferrer"
                         onClick={playClick}
                         data-cursor="link"
                         className="inline-flex items-center gap-1.5 px-3 py-1.5 border border-[var(--border-hairline)] text-primary hover:border-cyan-400 font-mono text-xs rounded-xs"
@@ -159,7 +159,7 @@ export const TheLab: React.FC<TheLabProps> = ({ playHover, playClick }) => {
                       <a
                         href={project.liveUrl}
                         target="_blank"
-                        rel="noreferrer"
+                        rel="noopener noreferrer"
                         onClick={playClick}
                         data-cursor="link"
                         className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-cyan-500/10 border border-cyan-400 text-cyan-400 font-mono text-xs rounded-xs"

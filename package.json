@@ -1,7 +1,10 @@
 {
   "name": "portfolio",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "description": "Personal digital laboratory and portfolio of Yuvraj Bedi, Computer Science undergraduate at Bennett University.",
+  "homepage": "https://yuvraj-bedi.github.io/portfolio",
+  "author": "Yuvraj Bedi <yuvrajbedi0628@gmail.com> (https://github.com/yuvraj-bedi)",
   "type": "module",
   "scripts": {
     "dev": "vite",
