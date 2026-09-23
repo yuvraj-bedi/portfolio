@@ -1,0 +1,5 @@
+# robots.txt for https://yuvraj-bedi.github.io/portfolio/
+User-agent: *
+Allow: /
+
+Sitemap: https://yuvraj-bedi.github.io/portfolio/sitemap.xml
