@@ -47,9 +47,6 @@ export const Footer: React.FC<FooterProps> = ({ playHover, playClick }) => {
           <p className="text-[11px] text-muted">
             {PERSONAL_DATA.institution} — {PERSONAL_DATA.degree}
           </p>
-          <p className="text-[10px] text-subdued">
-            COORDINATES: {PERSONAL_DATA.coordinates}
-          </p>
         </div>
 
         {/* Center: Live Telemetry Status */}
